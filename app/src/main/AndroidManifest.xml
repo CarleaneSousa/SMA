@@ -23,7 +23,9 @@
         <activity android:name=".Programa0606Activity" />
         <activity android:name=".MinicursosActivity" />
         <activity android:name=".OficinasActivity" />
-        <activity android:name=".PalestrasActivity"></activity>
+        <activity android:name=".PalestrasActivity" />
+        <activity android:name=".LeitorQRcodeActivity" />
+        <activity android:name=".GerarQRcodeActivity"></activity>
     </application>
 
 </manifest>
